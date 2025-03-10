@@ -30,11 +30,6 @@ I’m a skilled professional with expertise in website creation, design, and clo
 
 You can reach me through the contact form on my [portfolio website](https://amreshbofficial.github.io/).
 
-**Address:**
-Pearl Information Technology Pvt Ltd - (Startup)  
-1/183, Valacherykkadu, Thiruchitrambalam East,  
-Pattukkottai Taluk, Thanjavur – 614628
-
 ## 🌍 **Social Media**
 
 [![Email](https://img.shields.io/badge/Email-amreshbaskar@gmail.com-red)](mailto:amreshbaskar@gmail.com)
