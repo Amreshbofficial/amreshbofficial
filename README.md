@@ -15,16 +15,6 @@ I’m a skilled professional with expertise in website creation, design, and clo
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,react,aws,wordpress,nodejs,express,mongodb,typescript,tailwind,bootstrap,git,github,linux,vscode,pycharm)](https://skillicons.dev)
 
-## 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amreshbofficial&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amreshbofficial&layout=compact&theme=radical)
-
-## 🕒 **GitHub Activity**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Amreshbofficial&color=blue)
-![Hours Worked](https://github-readme-stats.vercel.app/api/wakatime?username=Amreshbofficial&layout=compact&theme=radical)
-
 ## 📂 **Latest Projects**
 
 - **[Appointment System Project](https://github.com/Amreshbofficial/Appointment_System_Project)** - A Django-based appointment scheduling system.
@@ -52,15 +42,4 @@ Pattukkottai Taluk, Thanjavur – 614628
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/amr_officialpub)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/profile.php?id=61569988602117)
 
-## ☕ **Support Me**
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/yourusername)
-
-## ✍️ **Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Scalable Cloud Architecture](https://yourblog.com/post1)
-- [Getting Started with Django for Web Development](https://yourblog.com/post2)
-- [Top 5 Tools for DevOps Engineers](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
