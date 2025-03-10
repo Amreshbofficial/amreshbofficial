@@ -5,10 +5,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/amr_officialpub)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/profile.php?id=61569988602117)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="200"/>
-</div>
-
 ## 👋 Hello, I'm Amresh B
 
 I’m a skilled professional with expertise in website creation, design, and cloud computing. I specialize in building secure, scalable solutions using AWS services, cloud architecture, and DevOps, while also creating visually appealing websites with tools like WordPress and SEO optimization. Explore my projects and contributions, and feel free to reach out—let’s collaborate and create something amazing!
@@ -31,9 +27,10 @@ I’m a skilled professional with expertise in website creation, design, and clo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amreshbofficial&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amreshbofficial&layout=compact&theme=radical)
 
-## 🐍 GitHub Contributions Snake
+## 🕒 **GitHub Activity**
 
-![Snake Animation](https://github.com/Amreshbofficial/Amreshbofficial/blob/output/github-contribution-grid-snake.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Amreshbofficial&color=blue)
+![Hours Worked](https://github-readme-stats.vercel.app/api/wakatime?username=Amreshbofficial&layout=compact&theme=radical)
 
 ## 📂 **Latest Projects**
 
@@ -74,7 +71,3 @@ Pattukkottai Taluk, Thanjavur – 614628
 - [Getting Started with Django for Web Development](https://yourblog.com/post2)
 - [Top 5 Tools for DevOps Engineers](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
-
-## 🎯 **Profile Views**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Amreshbofficial&color=blue)
