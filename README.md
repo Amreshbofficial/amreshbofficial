@@ -13,7 +13,7 @@ I’m a skilled professional with expertise in website creation, design, and clo
 
 ## 🛠️ **Tech Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,react,aws,wordpress,nodejs,express,mongodb,typescript,tailwind,bootstrap,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,react,aws,wordpress,nodejs,express,mongodb,typescript,tailwind,bootstrap,git,github,linux,vscode,pycharm)](https://skillicons.dev)
 
 ## 📊 **GitHub Stats**
 
