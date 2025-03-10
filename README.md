@@ -28,7 +28,9 @@ I’m a skilled professional with expertise in website creation, design, and clo
 
 ## 📫 **Contact Me**
 
-You can reach me through the contact form on my [portfolio website](https://amreshbofficial.github.io/).
+You can contact me on WhatsApp by clicking the icon below:
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8072799323)
 
 ## 🌍 **Social Media**
 
