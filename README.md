@@ -5,46 +5,76 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/amr_officialpub)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/profile.php?id=61569988602117)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="200"/>
+</div>
+
 ## 👋 Hello, I'm Amresh B
 
 I’m a skilled professional with expertise in website creation, design, and cloud computing. I specialize in building secure, scalable solutions using AWS services, cloud architecture, and DevOps, while also creating visually appealing websites with tools like WordPress and SEO optimization. Explore my projects and contributions, and feel free to reach out—let’s collaborate and create something amazing!
 
 ### 🌐 [Visit my GitHub Portfolio](https://amreshbofficial.github.io/)
 
-## 💼 What I Offer
+## 🛠️ **Tech Stack**
 
-### 💻 Web Design
-I create visually stunning, user-friendly websites that are tailored to your brand and business goals. From responsive layouts to intuitive navigation, I ensure your website not only looks great but also delivers an exceptional user experience.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 🛠️ Web Development
-I build fast, secure, and scalable websites using the latest technologies like HTML5, CSS3, JavaScript, and modern frameworks. Whether it's a simple landing page or a complex web application, I deliver robust solutions that perform seamlessly across all devices.
+## 📊 **GitHub Stats**
 
-### ☁️ Cloud Solutions
-I specialize in designing secure, scalable, and cost-effective cloud solutions using AWS services. My approach is collaborative, and I work closely with clients to ensure their cloud infrastructure meets their business needs and expectations.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amreshbofficial&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amreshbofficial&layout=compact&theme=radical)
 
-## 📂 Latest Projects
+## 🐍 **GitHub Contributions Snake**
 
-- **[Appointment System Project](https://github.com/Amreshbofficial/Appointment_System_Project)** - A Django-based appointment scheduling system designed to streamline booking and management processes.
-- **[Number Guessing Game](https://github.com/Amreshbofficial/Number-Guessing-Game-Python-Projects)** - A Python-based game where the user guesses a randomly generated number. Built with simplicity and fun in mind!
-- **[HTML Login Page Project](https://github.com/Amreshbofficial/HTM-Project-1)** - A responsive website built using HTML and CSS, showcasing modern web design principles and clean code structure.
-- **[Python AI Projects](https://github.com/Amreshbofficial/Python---Ai-Projects)** - A collection of AI-based projects using Python, including machine learning models and data analysis tools.
-- **[Python Django Project: Pin Your Notes](https://github.com/Amreshbofficial/Python-Django-Project-Pin-Your-Notes)** - A full-stack web application built with Django for managing and organizing notes efficiently.
-- **[Todo List App (React Mini Project)](https://github.com/Amreshbofficial/Todo-list-app-React-Mini-Project)** - A React-based to-do list application with features like task creation, editing, and deletion.
-- **[Simple Calculator Python Project](https://github.com/Amreshbofficial/Simple-Calculator-Python-Project)** - This is a simple calculator program written in Python that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
-- **[Simple Alarm Clock](https://github.com/Amreshbofficial/Simple-Alarm-Clock-Python-Project)** - A Python-based alarm clock application that allows users to set an alarm and plays a sound at the specified time.
+![Snake Animation](https://github.com/Amreshbofficial/Amreshbofficial/blob/output/github-contribution-grid-snake.svg)
 
-## 📫 Contact Me
+## 📂 **Latest Projects**
 
-You can reach me through the contact form provided on my [portfolio website](https://amreshbofficial.github.io/). Simply fill out the form with your name, email address, and message, and I will get back to you as soon as possible.
+- **[Appointment System Project](https://github.com/Amreshbofficial/Appointment_System_Project)** - A Django-based appointment scheduling system.
+- **[Number Guessing Game](https://github.com/Amreshbofficial/Number-Guessing-Game-Python-Projects)** - A Python-based game.
+- **[HTML Login Page Project](https://github.com/Amreshbofficial/HTM-Project-1)** - A responsive website built using HTML and CSS.
+- **[Python AI Projects](https://github.com/Amreshbofficial/Python---Ai-Projects)** - A collection of AI-based projects.
+- **[Python Django Project: Pin Your Notes](https://github.com/Amreshbofficial/Python-Django-Project-Pin-Your-Notes)** - A full-stack web application.
+- **[Todo List App (React Mini Project)](https://github.com/Amreshbofficial/Todo-list-app-React-Mini-Project)** - A React-based to-do list app.
+- **[Simple Calculator Python Project](https://github.com/Amreshbofficial/Simple-Calculator-Python-Project)** - A Python calculator.
+- **[Simple Alarm Clock](https://github.com/Amreshbofficial/Simple-Alarm-Clock-Python-Project)** - A Python-based alarm clock.
+
+## 📫 **Contact Me**
+
+You can reach me through the contact form on my [portfolio website](https://amreshbofficial.github.io/).
 
 **Address:**
 Pearl Information Technology Pvt Ltd - (Startup)  
 1/183, Valacherykkadu, Thiruchitrambalam East,  
 Pattukkottai Taluk, Thanjavur – 614628
 
-## 🌍 Social Media
+## 🌍 **Social Media**
 
 [![Email](https://img.shields.io/badge/Email-amreshbaskar@gmail.com-red)](mailto:amreshbaskar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amresh-b-830350325/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/amr_officialpub)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/profile.php?id=61569988602117)
+
+## ☕ **Support Me**
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/yourusername)
+
+## ✍️ **Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Scalable Cloud Architecture](https://yourblog.com/post1)
+- [Getting Started with Django for Web Development](https://yourblog.com/post2)
+- [Top 5 Tools for DevOps Engineers](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+## 🎯 **Profile Views**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Amreshbofficial&color=blue)
