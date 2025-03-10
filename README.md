@@ -25,7 +25,7 @@ I’m a skilled professional with expertise in website creation, design, and clo
 ## 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amreshbofficial&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amreshbofficial&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amreshbofficial&layout=compact&theme=radical)
 
 ## 🕒 **GitHub Activity**
 
