@@ -20,7 +20,7 @@ I’m a skilled professional with expertise in website creation, design, and clo
 - **[Appointment System Project](https://github.com/Amreshbofficial/Appointment_System_Project)** - A Django-based appointment scheduling system.
 - **[Number Guessing Game](https://github.com/Amreshbofficial/Number-Guessing-Game-Python-Projects)** - A Python-based game.
 - **[HTML Login Page Project](https://github.com/Amreshbofficial/HTM-Project-1)** - A responsive website built using HTML and CSS.
-- **[Python AI Projects](https://github.com/Amreshbofficial/Python---Ai-Projects)** - A collection of AI-based projects.
+- **[JARVIS-AI-Assistant](https://github.com/Amreshbofficial/JARVIS-AI-Assistant)** - An advanced AI-powered virtual assistant built using Python. It includes voice recognition, automation features, and smart responses to enhance productivity.
 - **[Python Django Project: Pin Your Notes](https://github.com/Amreshbofficial/Python-Django-Project-Pin-Your-Notes)** - A full-stack web application.
 - **[Todo List App (React Mini Project)](https://github.com/Amreshbofficial/Todo-list-app-React-Mini-Project)** - A React-based to-do list app.
 - **[Simple Calculator Python Project](https://github.com/Amreshbofficial/Simple-Calculator-Python-Project)** - A Python calculator.
